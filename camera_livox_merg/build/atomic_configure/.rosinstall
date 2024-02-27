@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fractal-wsl/catkin_ws/src/camera_livox_merg/build/devel/setup.sh
